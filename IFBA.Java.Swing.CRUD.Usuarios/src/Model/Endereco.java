@@ -14,10 +14,11 @@ public class Endereco {
     private String cidade;
     private String estado;
     private String CEP;
-
+    //Denovo
     public Endereco() {
     }
-
+    //Denovo2
+    //novo
     public Endereco(String logradouro, String cidade, String estado, String CEP) {
         this.logradouro = logradouro;
         this.cidade = cidade;
